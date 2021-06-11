@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<SwithMailSettings>
+  <ServerSettings>
+    <FromName>Name</FromName>
+    <FromAddress>Mail@Adresse</FromAddress>
+    <Username />
+    <Password>IhxmO8tD9joqxzQptQTHhQ==</Password>
+    <ObscurePassword>True</ObscurePassword>
+    <MailServer>Relay</MailServer>
+    <MailServerPort>587</MailServerPort>
+    <SSL>True</SSL>
+    <Encoding />
+    <RequestReceipt>False</RequestReceipt>
+    <MessageID>False</MessageID>
+  </ServerSettings>
+  <EmailAddresses>
+    <To>Mail@Adresse</To>
+    <CC />
+    <BCC />
+    <ReplyTo />
+  </EmailAddresses>
+  <Attachments>
+    <AttachmentPath />
+  </Attachments>
+  <EmailContent>
+    <HTML>False</HTML>
+    <DontReplaceNewLine>False</DontReplaceNewLine>
+    <Subject>WinRaidCheck %Param1%</Subject>
+    <Body>WinRaidCheck</Body>
+    <BodyTxtFile />
+  </EmailContent>
+  <Logging>
+    <Log>True</Log>
+  </Logging>
+</SwithMailSettings>
