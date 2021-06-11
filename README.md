@@ -41,7 +41,8 @@ Die sollte man bei kommerziellem Einsatz auch investieren - so viel sollte die V
 
 # Setup
 Alle Dateien in einem beliebigen Pfad speichern und die Variablen anpassen. 
-SwithMail bringt dafür eine GUI mit, in der man (oder frau) die Parameter für den CLI-Aufruf erzeugen kann. 
+SwithMail herunter laden und die exe auspacken. 
+SwithMail bringt eine GUI mit, in der man (oder frau) die Parameter für den CLI-Aufruf erzeugen kann. 
 Ich lasse das Skript 0 per Aufgabenplanung einmal in der Woche zu einer Zeit aufrufen, in der ich ziemlich sicher sein kann, dass die Rechner an sind. 
 Dabei wird auf jeden Fall eine Mail verschickt. 
 Bei Headless-Servern wird das Skript 0 ebenfalls per Aufgabenplanung täglich früh am Morgen aufgerufen. 
